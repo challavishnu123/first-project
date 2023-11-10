@@ -16,6 +16,5 @@ int main()
 			}
 		}
 	}
-		for(i=0;i<n;i++)
-	printf("%d\t",a[i]);
+	NAA ISTAM REYYY
 }
